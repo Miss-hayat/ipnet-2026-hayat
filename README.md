@@ -1,4 +1,4 @@
-# ipnet-2026-hayat<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>Bienvenue sur ma première page !</h1>
-<p>Je suis étudiant en <strong>INFORMATIQUE ET GESTION</strong> à IPNET.</p>
+<p>Je suis étudiante en <strong>INFORMATIQUE ET GESTION</strong> à IPNET.</p>
 <p>Cette page a été créée lors de la séance 1 du cours IT 130.</p>
 <h2>Ce que j'ai appris aujourd'hui :</h2>
 <ul>
@@ -22,3 +22,5 @@ complet et interactif.</p>
 <p><em>Créé par : TCHANA hayat - 3 NOVEMBRE 2026</em></p>
 </body>
 </html>
+
+
