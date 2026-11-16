@@ -22,7 +22,3 @@ complet et interactif.</p>
 <p><em>Créé par : TCHANA hayat - 3 NOVEMBRE 2026</em></p>
 </body>
 </html>
-
-
-IT 130
-
